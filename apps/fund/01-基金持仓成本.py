@@ -19,5 +19,4 @@ def addFund(objectNet):
             amount += 500
     print("最终需要投资 amount = ", amount)
 
-
 addFund(2.9)
